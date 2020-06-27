@@ -7,7 +7,7 @@ package ca.sheridancollege.project;
 
 /**
  *
- * @author jashan
+ * @author jashan gurleen ria navdeep
  */
 import java.util.ArrayList;
 import java.util.Random;
