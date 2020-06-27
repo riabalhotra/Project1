@@ -7,7 +7,7 @@ package ca.sheridancollege.project;
 
 /**
  *
- * @author jashan
+ * @author jashandeep kaur , ria , gurleen kaur , navdeep kaur
  */
 import java.util.Scanner;
 
