@@ -7,7 +7,7 @@ package ca.sheridancollege.project;
 
 /**
  *
- * @author jashan
+ * @author jashandeep kaur, ria, navdeep kaur , gurleen kaur
  */
 public class Card {
 
